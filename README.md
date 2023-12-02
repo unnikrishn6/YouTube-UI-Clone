@@ -2,7 +2,7 @@
 
 This GitHub repository contains a clone of the YouTube homepage user interface. It is built using Angular for the front-end, JSON-Server for simulating a back-end server, and Bootstrap for styling.
 
-![image](https://github.com/unnikrishn6/YouTube-UI-Clone/assets/111999304/8af58426-ad7b-486e-939c-2deb62e8cab9)
+![spotify](https://github.com/unnikrishn6/YouTube-UI-Clone/assets/111999304/fcaece27-91d2-42e2-8427-fcce65043272)
 
 
 ## Features
